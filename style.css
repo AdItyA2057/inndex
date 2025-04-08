@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+.banner{
+    background-color: #0b1f3a;
+    padding-top: 60px;
+}
+.achieve-section {
+    background-color: #f5f7fb;
+  }
+  
+  .goal-item {
+    background-color: #e1e9f8;
+    border-radius: 2rem;
+    padding: 30px 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .goal-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  .goal-icon {
+    width: 60px;
+    height: 60px;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  .focus-section {
+    background-color: #f9fafa;
+    color: #333;
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+  .custom-image-gallery {
+    max-width: 100%;
+  height: auto;
+  }  
+  
